@@ -18,6 +18,7 @@ import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 public class XaqLetsMod {
     @PreInit
     public void preInit(FMLPreInitializationEvent event) {
+        Logging.init();
         Logging.log(Level.INFO, "XaqLetsMod preInit START ********");
         
         
