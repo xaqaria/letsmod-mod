@@ -1,0 +1,20 @@
+[
+{
+  "modid": "XaqLetsMod",
+  "name": "Xaqaria's Let's Mod",
+  "description": "Learning to mod!",
+  "version": "0.0.1",
+  "url": "http://www.github.com/xaqaria/letsmod",
+  "updateUrl": "",
+  "authorList": [
+    "xaqaria"
+  ],
+  "credits": "By Xaqaria, help from Pahimar's Let's Mod Series, ideas from MogeyMan and StripWeathers",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
