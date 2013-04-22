@@ -15,6 +15,8 @@ import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 
 @Mod(modid = Reference.MOD_ID, name = Reference.MOD_NAME, version = Reference.VERSION_NUMBER)
 
+//adding a few comments for testing of git syncing
+
 public class XaqLetsMod {
     @PreInit
     public void preInit(FMLPreInitializationEvent event) {
